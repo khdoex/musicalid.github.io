@@ -6,6 +6,6 @@
 
 
 
-[Link](url) and ![Image](sptgggg.jpg )
+[Contact]([url](https://www.instagram.com/kaanhho/)) ![Image](sptgggg.jpg )
 ```
 
