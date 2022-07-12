@@ -6,6 +6,6 @@
 
 
 
-[Contact]([url](https://www.instagram.com/kaanhho/)) ![Image](sptgggg.jpg )
+[Contact](https://www.instagram.com/kaanhho/) ![Image](sptgggg.jpg )
 ```
 
